@@ -1,0 +1,23 @@
+{
+    "AS_Form_e75d66adbe05412c951a32f89248f429": {
+        "id": "AS_Form_e75d66adbe05412c951a32f89248f429",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmProductList",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ccd7dcdaae344e399a4c10e9726731e1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_init_277677241fe74839a22fe1ea690c7d3e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "setProductSgmtAnimation();\nfrmProductList.flxHeader.imgSearch.setVisibility(false);\nfrmProductList.flxHeader.btnSearch.setVisibility(false);\nfrmProductList.flxProductsList.btnNext.setVisibility(false);\nfrmProductList.flxProductsList.btnPrev.setVisibility(false);\nfrmProductList.sgmtProducts.setVisibility(false);\n\n\n//frmHome.flxSearch.setVisibility(false);",
+            "callbackType": null
+        }]
+    }
+}

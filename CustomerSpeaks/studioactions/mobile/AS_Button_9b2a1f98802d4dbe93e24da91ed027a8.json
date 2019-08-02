@@ -1,0 +1,25 @@
+{
+    "AS_Button_9b2a1f98802d4dbe93e24da91ed027a8": {
+        "id": "AS_Button_9b2a1f98802d4dbe93e24da91ed027a8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "mstrHeaderNoButtons",
+            "type": "masters",
+            "KUID": "38fe5ed239dc4b9895ae404647c45e61"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_b40aa9bb537d4099914802644563fa35",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "animateSearchFlx",
+            "display": "animateSearchFlx",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s982c79ccc924fedbb197fd69658de2f",
+    "_srcKuid_": "0d61b666083a416ca519beb09c51941d",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {
+        "id": "imgBack"
+    },
+    "id": "imgBack",
+    "instanceOf": "0d61b666083a416ca519beb09c51941d",
+    "isdatareferenced": true,
+    "isvisible": true,
+    "kuid": "m4474363edeb4ebeb0418e27cd7869cf",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "flxHeader",
+    "pf": "frmHome",
+    "topLevelInstanceKUID": "me4d0888e21e46cbb81f8f46705e1f14",
+    "wType": "Image"
+}

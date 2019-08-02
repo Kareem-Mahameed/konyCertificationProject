@@ -1,0 +1,41 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s8cd56d4edff4317811df5e33f88fe3f",
+    "_srcKuid_": "m476df9b7180492cacfc4049ef5f9f3d",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "children": [
+        "imgLogo",
+        "lblLine",
+        "imgSearch",
+        "imgBack",
+        "btnSearch",
+        "btnBestByLogo",
+        "btnBack"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "id": "flxHeader"
+    },
+    "id": "flxHeader",
+    "instanceOf": "m476df9b7180492cacfc4049ef5f9f3d",
+    "isTopFlexInstance": true,
+    "isdatareferenced": true,
+    "isvisible": true,
+    "kuid": "m300668e7ce54205ac308115d3422dc5",
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxProductDetails",
+    "pf": "frmProductDetails",
+    "vizProps": {
+        "hidewidgethierarchy": false
+    },
+    "wType": "FlexContainer"
+}

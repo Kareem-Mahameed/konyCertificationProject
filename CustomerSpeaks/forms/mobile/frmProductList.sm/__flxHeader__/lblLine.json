@@ -1,0 +1,29 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sdef6cd2d4dc4b658a573c216f5a6745",
+    "_srcKuid_": "dc442810a5454a43b9bcd06758d2d340",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {
+        "id": "lblLine"
+    },
+    "id": "lblLine",
+    "instanceOf": "dc442810a5454a43b9bcd06758d2d340",
+    "isdatareferenced": true,
+    "isvisible": true,
+    "kuid": "m738040a47234f7ba05a552394597de1",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "flxHeader",
+    "pf": "frmProductList",
+    "topLevelInstanceKUID": "me6d5bfa511e442f9eec8ea210137227",
+    "wType": "Label"
+}

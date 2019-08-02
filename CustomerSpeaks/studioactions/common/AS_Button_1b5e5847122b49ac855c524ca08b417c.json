@@ -1,0 +1,17 @@
+{
+    "AS_Button_1b5e5847122b49ac855c524ca08b417c": {
+        "id": "AS_Button_1b5e5847122b49ac855c524ca08b417c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "mstrHeaderNoButtons",
+            "type": "masters",
+            "KUID": "38fe5ed239dc4b9895ae404647c45e61"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

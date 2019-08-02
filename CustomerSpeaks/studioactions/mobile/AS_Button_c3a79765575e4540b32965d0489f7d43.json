@@ -1,0 +1,30 @@
+{
+    "AS_Button_c3a79765575e4540b32965d0489f7d43": {
+        "id": "AS_Button_c3a79765575e4540b32965d0489f7d43",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmProductList",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ccd7dcdaae344e399a4c10e9726731e1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___8c74f3d9ba164d0f8dd976553109587e",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "paginations",
+            "display": "paginations",
+            "inputparams": [{
+                "name": "next",
+                "value": "\"true\""
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

@@ -1,0 +1,214 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "imgRowThumb": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "foxlogo.png"
+            },
+            "lblPrice": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Price"
+            },
+            "lblProductName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Product Name"
+            },
+            "lblRating": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Avg User Rating :"
+            }
+        },
+        {
+            "imgRowThumb": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "foxlogo.png"
+            },
+            "lblPrice": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Price"
+            },
+            "lblProductName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Product Name"
+            },
+            "lblRating": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Avg User Rating :"
+            }
+        },
+        {
+            "imgRowThumb": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "foxlogo.png"
+            },
+            "lblPrice": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Price"
+            },
+            "lblProductName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Product Name"
+            },
+            "lblRating": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Avg User Rating :"
+            }
+        },
+        {
+            "imgRowThumb": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "foxlogo.png"
+            },
+            "lblPrice": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Price"
+            },
+            "lblProductName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Product Name"
+            },
+            "lblRating": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Avg User Rating :"
+            }
+        },
+        {
+            "imgRowThumb": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "foxlogo.png"
+            },
+            "lblPrice": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Price"
+            },
+            "lblProductName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Product Name"
+            },
+            "lblRating": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Avg User Rating :"
+            }
+        },
+        {
+            "imgRowThumb": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "foxlogo.png"
+            },
+            "lblPrice": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Price"
+            },
+            "lblProductName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Product Name"
+            },
+            "lblRating": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Avg User Rating :"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "70%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "3%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "19%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "94%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "05",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "4a28db3df084416ea5d75542833a89dc",
+    "groupcells": false,
+    "hasSections": false,
+    "hiddencolumns": {
+        "productID": "text"
+    },
+    "id": "sgmtProducts",
+    "ide_onRowClick": "AS_Segment_e59a94edd0b14f04af183b71c935be2d",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "599a87e4ce534100ab24d51fc3a2183a",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxProductsList",
+    "pf": "frmProductList",
+    "retainselection": false,
+    "rowTemplateId": "bdf733535d024294995b3f2ce745f66f",
+    "rowcounter": 5,
+    "rowfocusskin": "s75493a7546f4969a49069581c6d9c04",
+    "rowskin": "sf218715e2c54ccc9a005d2e8fd4b38c",
+    "rowtemplate": "flxSegRow",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "sectionheaderskin": "s838989009c3436e99cb7b11020c0cd9",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "separatorthickness": 0,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxRowText": "flxRowText",
+        "flxSegRow": "flxSegRow",
+        "imgRowThumb": "imgRowThumb",
+        "lblPrice": "lblPrice",
+        "lblProductName": "lblProductName",
+        "lblRating": "lblRating"
+    },
+    "zindex": 1
+}

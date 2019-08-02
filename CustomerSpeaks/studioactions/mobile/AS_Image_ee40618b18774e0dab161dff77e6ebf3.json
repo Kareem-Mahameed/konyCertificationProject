@@ -1,0 +1,29 @@
+{
+    "AS_Image_ee40618b18774e0dab161dff77e6ebf3": {
+        "id": "AS_Image_ee40618b18774e0dab161dff77e6ebf3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "imagesrc"
+        }, {
+            "datatype": "boolean",
+            "name": "issuccess"
+        }],
+        "contextObj": {
+            "name": "frmProductList",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ccd7dcdaae344e399a4c10e9726731e1"
+        },
+        "sourceObj": {
+            "itemKUID": "92b35543d9684beb9812ff5792121ab4",
+            "widgetKUID": "0d61b666083a416ca519beb09c51941d",
+            "evt": "onDownloadComplete"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

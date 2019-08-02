@@ -1,0 +1,23 @@
+{
+    "AS_Form_d8734874faf44250b327551beacd6bd3": {
+        "id": "AS_Form_d8734874faf44250b327551beacd6bd3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmProductDetails",
+            "type": "forms",
+            "platform": null,
+            "KUID": "927768dc622c439f94af6d1792bb7a4d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_init_fccaf910c75f47a5a853d4f81371ceec",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//setSegmentAnimation();\nfrmProductDetails.flxHeader.imgSearch.setVisibility(false);\nfrmProductDetails.flxHeader.btnSearch.setVisibility(false);\n\n",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "AS_Button_09a0aab72c07473da091f45cfb3c71bd": {
+        "id": "AS_Button_09a0aab72c07473da091f45cfb3c71bd",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmProductList",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ccd7dcdaae344e399a4c10e9726731e1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_ecfd2f07afe54dafa6f5eec37cd1bd7c",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "animateCancelSearchFlx",
+            "display": "animateCancelSearchFlx",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

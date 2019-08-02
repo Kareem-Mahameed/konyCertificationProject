@@ -1,0 +1,18 @@
+{
+    "AS_AppEvents_c103e85bd3324eaf84727501e76f8258": {
+        "id": "AS_AppEvents_c103e85bd3324eaf84727501e76f8258",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__695019f5cc0b40798e9e5db624690536",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "initializeMobileFabricInAppInit();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

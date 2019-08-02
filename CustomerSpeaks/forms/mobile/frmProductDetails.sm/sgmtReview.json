@@ -1,0 +1,322 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "imgRating": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "ratings_star_4.png"
+            },
+            "lblReviewContent": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ReviewDetailReviewDetailReviewDetailReviewDetailReviewDetailReviewDetailReviewDetailReviewDetail"
+            },
+            "lblReviewTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ReviewTitle"
+            },
+            "lblReviewerName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Submitted By : Kareem Mahameed "
+            }
+        },
+        {
+            "imgRating": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "ratings_star_4.png"
+            },
+            "lblReviewContent": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ReviewDetailReviewDetailReviewDetailReviewDetailReviewDetailReviewDetailReviewDetailReviewDetail"
+            },
+            "lblReviewTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ReviewTitle"
+            },
+            "lblReviewerName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Submitted By : Kareem Mahameed "
+            }
+        },
+        {
+            "imgRating": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "ratings_star_4.png"
+            },
+            "lblReviewContent": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ReviewDetailReviewDetailReviewDetailReviewDetailReviewDetailReviewDetailReviewDetailReviewDetail"
+            },
+            "lblReviewTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ReviewTitle"
+            },
+            "lblReviewerName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Submitted By : Kareem Mahameed "
+            }
+        },
+        {
+            "imgRating": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "ratings_star_4.png"
+            },
+            "lblReviewContent": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ReviewDetailReviewDetailReviewDetailReviewDetailReviewDetailReviewDetailReviewDetailReviewDetail"
+            },
+            "lblReviewTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ReviewTitle"
+            },
+            "lblReviewerName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Submitted By : Kareem Mahameed "
+            }
+        },
+        {
+            "imgRating": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "ratings_star_4.png"
+            },
+            "lblReviewContent": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ReviewDetailReviewDetailReviewDetailReviewDetailReviewDetailReviewDetailReviewDetailReviewDetail"
+            },
+            "lblReviewTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ReviewTitle"
+            },
+            "lblReviewerName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Submitted By : Kareem Mahameed "
+            }
+        },
+        {
+            "imgRating": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "ratings_star_4.png"
+            },
+            "lblReviewContent": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ReviewDetailReviewDetailReviewDetailReviewDetailReviewDetailReviewDetailReviewDetailReviewDetail"
+            },
+            "lblReviewTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ReviewTitle"
+            },
+            "lblReviewerName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Submitted By : Kareem Mahameed "
+            }
+        },
+        {
+            "imgRating": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "ratings_star_4.png"
+            },
+            "lblReviewContent": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ReviewDetailReviewDetailReviewDetailReviewDetailReviewDetailReviewDetailReviewDetailReviewDetail"
+            },
+            "lblReviewTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ReviewTitle"
+            },
+            "lblReviewerName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Submitted By : Kareem Mahameed "
+            }
+        },
+        {
+            "imgRating": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "ratings_star_4.png"
+            },
+            "lblReviewContent": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ReviewDetailReviewDetailReviewDetailReviewDetailReviewDetailReviewDetailReviewDetailReviewDetail"
+            },
+            "lblReviewTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ReviewTitle"
+            },
+            "lblReviewerName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Submitted By : Kareem Mahameed "
+            }
+        },
+        {
+            "imgRating": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "ratings_star_4.png"
+            },
+            "lblReviewContent": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ReviewDetailReviewDetailReviewDetailReviewDetailReviewDetailReviewDetailReviewDetailReviewDetail"
+            },
+            "lblReviewTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ReviewTitle"
+            },
+            "lblReviewerName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Submitted By : Kareem Mahameed "
+            }
+        },
+        {
+            "imgRating": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "ratings_star_4.png"
+            },
+            "lblReviewContent": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ReviewDetailReviewDetailReviewDetailReviewDetailReviewDetailReviewDetailReviewDetailReviewDetail"
+            },
+            "lblReviewTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ReviewTitle"
+            },
+            "lblReviewerName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Submitted By : Kareem Mahameed "
+            }
+        },
+        {
+            "imgRating": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "ratings_star_4.png"
+            },
+            "lblReviewContent": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ReviewDetailReviewDetailReviewDetailReviewDetailReviewDetailReviewDetailReviewDetailReviewDetail"
+            },
+            "lblReviewTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ReviewTitle"
+            },
+            "lblReviewerName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Submitted By : Kareem Mahameed "
+            }
+        },
+        {
+            "imgRating": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "ratings_star_4.png"
+            },
+            "lblReviewContent": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ReviewDetailReviewDetailReviewDetailReviewDetailReviewDetailReviewDetailReviewDetailReviewDetail"
+            },
+            "lblReviewTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ReviewTitle"
+            },
+            "lblReviewerName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Submitted By : Kareem Mahameed "
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "1%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "1%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "98%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "011",
+    "disabledSkins": {
+        "rowFocusSkin": "s6c353149b46496a97b39e949a2d317f"
+    },
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "7e1ed76403ef4965b24c8c9fbf70ed53",
+    "groupcells": false,
+    "hasSections": false,
+    "hiddencolumns": {
+        "reviewRating": "text"
+    },
+    "id": "sgmtReview",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "4979e288ab8e4345bb24ddee9775dd19",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxDetails",
+    "pf": "frmProductDetails",
+    "retainselection": false,
+    "rowTemplateId": "a9e11c141f80416a8ef39e4c147f369e",
+    "rowcounter": 11,
+    "rowskin": "sf218715e2c54ccc9a005d2e8fd4b38c",
+    "rowtemplate": "flxReviewRow",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "sectionheaderskin": "s838989009c3436e99cb7b11020c0cd9",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "separatorthickness": 0,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxReviewRow": "flxReviewRow",
+        "imgRating": "imgRating",
+        "lblReviewContent": "lblReviewContent",
+        "lblReviewTitle": "lblReviewTitle",
+        "lblReviewerName": "lblReviewerName"
+    },
+    "zindex": 1
+}

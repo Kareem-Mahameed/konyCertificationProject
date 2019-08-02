@@ -1,0 +1,41 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s6972f04d4eb47648de285e4b36ad51f",
+    "_srcKuid_": "163e4459ee4b40dc83f3d8397e0836ec",
+    "_width_": {
+        "type": "string",
+        "value": "80dp"
+    },
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {
+        "id": "btnBestByLogo"
+    },
+    "id": "btnBestByLogo",
+    "instanceOf": "163e4459ee4b40dc83f3d8397e0836ec",
+    "isdatareferenced": true,
+    "isvisible": true,
+    "kuid": "ma7430713faa44c59c242d253b2269f5",
+    "masterInstance": true,
+    "name": "kony.ui.Button",
+    "parent": "flxHeader",
+    "pf": "frmProductList",
+    "topLevelInstanceKUID": "me6d5bfa511e442f9eec8ea210137227",
+    "wType": "Button"
+}

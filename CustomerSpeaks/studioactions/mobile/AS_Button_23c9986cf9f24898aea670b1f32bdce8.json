@@ -1,0 +1,32 @@
+{
+    "AS_Button_23c9986cf9f24898aea670b1f32bdce8": {
+        "id": "AS_Button_23c9986cf9f24898aea670b1f32bdce8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": "",
+            "KUID": "72decdf8079a4318a1140acd340c74e1"
+        },
+        "sourceObj": {
+            "itemKUID": "38fe5ed239dc4b9895ae404647c45e61",
+            "widgetKUID": "3c0b3cd98bda4e10b6295ff83787d768",
+            "evt": "onClick"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___9933e53922014d76819ef997ccd7253a",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "backNavigation",
+            "display": "backNavigation",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s6972f04d4eb47648de285e4b36ad51f",
+    "_srcKuid_": "163e4459ee4b40dc83f3d8397e0836ec",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {
+        "id": "btnBestByLogo"
+    },
+    "id": "btnBestByLogo",
+    "instanceOf": "163e4459ee4b40dc83f3d8397e0836ec",
+    "isdatareferenced": true,
+    "isvisible": true,
+    "kuid": "m21b3e4d55dc46fc85d3400dbe2ca603",
+    "masterInstance": true,
+    "name": "kony.ui.Button",
+    "parent": "flxHeader",
+    "pf": "frmProductDetails",
+    "topLevelInstanceKUID": "m300668e7ce54205ac308115d3422dc5",
+    "wType": "Button"
+}

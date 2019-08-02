@@ -1,0 +1,29 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s6fe5e7aca014459a52663fa32cccf05",
+    "_srcKuid_": "d86d053546c74c73a4e794bbd0a69853",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {
+        "id": "btnSearch"
+    },
+    "id": "btnSearch",
+    "instanceOf": "d86d053546c74c73a4e794bbd0a69853",
+    "isdatareferenced": true,
+    "isvisible": true,
+    "kuid": "mf10793703be4cb292fc88cb5b816494",
+    "masterInstance": true,
+    "name": "kony.ui.Button",
+    "parent": "flxHeader2",
+    "pf": "frmTestImages",
+    "topLevelInstanceKUID": "m79a716f1dc24cc8be45c6f52e142e6c",
+    "wType": "Button"
+}

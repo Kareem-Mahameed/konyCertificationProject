@@ -1,0 +1,24 @@
+{
+    "AS_Form_785ead4a810548fa850df6ff8f485838": {
+        "id": "AS_Form_785ead4a810548fa850df6ff8f485838",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": "",
+            "KUID": "72decdf8079a4318a1140acd340c74e1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__b8f771e81dc04538992d62cca0aca8b3",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "setSegmentAnimation();\nfrmHome.flxHeader.imgBack.setVisibility(false);\nfrmHome.flxHeader.btnBack.setVisibility(false);\nfrmHome.flxSearch.setVisibility(false);\nfrmHome.sgmtCategories.setVisibility(false);\n//getCategories(\"cat00000\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}
